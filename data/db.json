@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "firstName": "s",
+      "lastName": "w",
+      "location": "w",
+      "appointments": [
+        {
+          "date": "2024-01-20",
+          "time": "09:58"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "firstName": "smile",
+      "lastName": "sharma",
+      "location": "mansa",
+      "appointments": [
+        {
+          "date": "2024-01-20",
+          "time": "10:26"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "firstName": "shelley",
+      "lastName": "sharma",
+      "location": "mansa",
+      "appointments": [
+        {
+          "date": "2024-01-12",
+          "time": "01:47"
+        }
+      ],
+      "id": 14
+    }
+  ]
+}
